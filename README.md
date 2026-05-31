@@ -23,9 +23,6 @@ I love computer science and the open source community. I enjoy web development, 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=doramlab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doramlab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=doramlab&theme=tokyonight&hide_border=true" />
 
 </div>
