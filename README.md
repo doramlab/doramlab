@@ -28,16 +28,7 @@ I love computer science and the open source community. I enjoy web development, 
 
 ---
 
-### 🐍 Contribution Snake
-
-<div align="center">
-
 <img src="https://raw.githubusercontent.com/doramlab/doramlab/main/profile-snake-contrib/github-contribution-grid-snake.svg" />
-
-</div>
-
----
-
 ### 🛠️ Tech Stack
 
 <div align="center">
