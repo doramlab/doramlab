@@ -3,7 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=200&section=header&text=doramlab&fontSize=70&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=18" />
 
 <a href="https://github.com/doramlab"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:doram@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=doramlab&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 
@@ -29,6 +28,16 @@ I love computer science and the open source community. I enjoy web development, 
 
 ---
 
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/doramlab/doramlab/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
 ### 🛠️ Tech Stack
 
 <div align="center">
@@ -44,26 +53,15 @@ I love computer science and the open source community. I enjoy web development, 
 
 **Databases**
 
+![MaxCompute](https://img.shields.io/badge/MaxCompute-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **OS & Editors**
 
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
-
-</div>
-
----
-
-### 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/doramlab/wnacg-downloader">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=doramlab&repo=wnacg-downloader&theme=tokyonight&hide_border=true" />
-</a>
+![Zed](https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=zedindustries&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 
 </div>
 
