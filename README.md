@@ -1,38 +1,105 @@
 <div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Have+a+nice+day!&center=true&size=27)](https://git.io/typing-svg)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=200&section=header&text=doramlab&fontSize=70&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=18" />
 
-<p>
-  <a href="https://github.com/doramlab"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:doram@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<div>&nbsp;</div>
 
-<img src="https://komarev.com/ghpvc/?username=doramlab&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+<div>
+  <a href="https://github.com/doramlab"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>&emsp;
+  <a href="mailto:doram@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&emsp;
+  <img src="https://komarev.com/ghpvc/?username=doramlab&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/doramlab/doramlab/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/doramlab/doramlab/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/doramlab/doramlab/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
----
+# 🙋 Hello
+
+<table>
+
+<tr><td>
 
 ### 👨‍💻 About Me
 
-```python
-class DoramLab:
-    def __init__(self):
-        self.name = "Doram"
-        self.role = "Full-Stack Developer"
-        self.languages = ["Python", "JavaScript", "TypeScript", "Go"]
-        self.interests = ["Web Development", "Automation", "Open Source"]
-        self.fun_fact = "I turn ☕ into 🐛 and then into ✨"
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
 
-    def current_work(self):
-        return "Building cool stuff and breaking things (intentionally)"
-```
+<p>&emsp;&emsp;Hi there! I'm Doram, a full-stack developer passionate about building things.</p>
+<p>&emsp;&emsp;I love computer science and the open source community. My goal is to become a great developer.</p>
+<p>&emsp;&emsp;I enjoy web development, automation, and exploring new technologies.</p>
+<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
----
+</tr></td>
 
-### 🛠️ Tech Stack
+</table>
+
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 <div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" width="250" height="250" />
+
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%ffffff" />
+    <img alt="Jokes Card" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
+  </picture>
+</div>
+
+### 📊 GitHub Stats
+
+<img align="left" width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=doramlab&theme=dark&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=doramlab&theme=light&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=doramlab&theme=dark&hide_border=true" />
+</picture>
+
+<img align="right" width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
+
+<div>&nbsp;</div>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=doramlab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doramlab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=doramlab&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=doramlab&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=doramlab&theme=xcode&bg_color=FF000000&hide_border=true" />
+      </picture>
+  </tr>
+</table>
+
+</div>
+
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/mb.png" width="250" height="250" />
+
+<div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
+
+</div>
+
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" width="250" height="250" />
+
+### 🛠️ Tech Stack
 
 **Languages**
 
@@ -62,36 +129,13 @@ class DoramLab:
 
 </div>
 
----
-
-### 📊 GitHub Stats
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=doramlab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doramlab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=doramlab&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/doramlab/doramlab/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/doramlab/doramlab/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/doramlab/doramlab/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
----
+<img width="36%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" />
 
 ### 🚀 Featured Projects
-
-<div align="center">
 
 <a href="https://github.com/doramlab/wnacg-downloader">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=doramlab&repo=wnacg-downloader&theme=tokyonight&hide_border=true" />
@@ -99,15 +143,7 @@ class DoramLab:
 
 </div>
 
----
-
-### 🎵 Currently Vibing To
-
-<div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31w3o2c7f12o6boxuak7clwok6oi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" />
-</div>
-
----
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=120&section=footer" />
